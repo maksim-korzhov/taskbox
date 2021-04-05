@@ -1,6 +1,6 @@
 import React from "react";
 
-import PureTaskList from "./TaskList";
+import { PureTaskList } from "./TaskList";
 import * as TaskStories from "./Task.stories";
 
 // eslint-disable-next-line import/no-anonymous-default-export
